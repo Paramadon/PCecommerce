@@ -1,2 +1,2 @@
 # PCecommerce
-Selling pcs online
+Selling pcs online, used freecodecamp template to build this amazing website.
